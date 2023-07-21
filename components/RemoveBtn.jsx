@@ -1,5 +1,4 @@
 'use client'
-import React from 'react'
 import {HiOutlineTrash} from "react-icons/hi"
 import { useRouter } from 'next/navigation';
 import axios from 'axios';
